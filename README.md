@@ -1,4 +1,4 @@
-# This project is aimed at carrying out Descriptive and Explorative Data (EDA) Analysis of:
+# These projects are aimed at carrying out Descriptive and Explorative Data (EDA) Analysis of some datasets, namely:
 - ### U.S. Medical Insurance Costs
 - ### Life Expectancy vs GDP of selected countries across the world
 
