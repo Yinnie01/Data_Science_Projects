@@ -17,4 +17,4 @@
   -   Facet Grid Plots (Bivariate numerical variables)
 
 ## Conclusion:
-- Based on the insights derived from the exploraty data analysis, major questions pertaining to the dataset were answers and predictions were made in tandem.
+- Major questions pertaining to the dataset were answered and predictions were made, based on the insights derived from the exploratory data analysis of the datasets.
